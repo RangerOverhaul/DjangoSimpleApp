@@ -1,6 +1,6 @@
 # README
 ## Prueba Tecnica 
-Github [Respo](https://djecrety.ir/)
+Github [Respo](https://github.com/RangerOverhaul/DjangoSimpleApp)
 ### Requirements
 |     Platform      |        Language         |
 |:-----------------:|:-----------------------:|
@@ -9,7 +9,7 @@ Github [Respo](https://djecrety.ir/)
 
 ### Preparacion
 En el archivo /PT/.env debe usar una secrect key para poder ejecutar correctamente la api.
-Puedes generarla [aqui](https://github.com/RangerOverhaul/DjangoSimpleApp)
+Puedes generarla [aqui](https://djecrety.ir/)
 ### Installation
 #### Dcoker
 Si tiene instalado docker en su sistema solo debe ejecutar:
